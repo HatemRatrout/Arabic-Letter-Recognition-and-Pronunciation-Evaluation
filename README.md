@@ -50,20 +50,34 @@ In order to achieve this goal, we have made an interactive game for children thr
 We have also diversified these forms and stages so that the child does not feel bored.
 
 - ### Main Menu
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131697187-facfaa01-c329-4332-9f07-32a8f8b43c55.png" >  
+
 - ### Level 1 (letters and words – الحروف والكلمات)
-The main goal of the first level is for the child to listen to the correct pronunciation of the Arabic letter, and then present this letter with an example (and the intended letter in the example is shaded in a different color from the rest of the word).
-These examples have been diversified (animal, inanimate, and plant).
+The main goal of the first level is for the child to listen to the correct pronunciation of the Arabic letter, and then present this letter with an example (and the intended letter in the example is shaded in a different color from the rest of the word). 
+These examples have been diversified (animal, inanimate, and plant). 
+&nbsp; <br>  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131697933-43575d91-3fb3-402b-90af-cd8195566a75.png">  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131697946-797f4efb-2775-4b66-b0b8-87564fb435c7.png" >  
 
 - ### Level 2 (Letters Pronunciation – نطق الحروف)
-The second level is the most important level in the game, where it is checked whether the child pronounces the letter correctly or not, here our model is called and the processing process is done and results are shown.
+The second level is the most important level in the game, where it is checked whether the child pronounces the letter correctly or not, here our model is called and the processing process is done and results are shown. 
+&nbsp; <br>  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131698087-4874d46e-def3-4c72-99cb-959131e13242.png" >  
 
 - ### Level 3 (Missing Letter – الحرف الناقص)
 At this level, there are words that are missing the first letter of them, the child must put the appropriate letter in the appropriate word, so the goal of this stage is for the child to link the letters that he learned with words or examples from the Arabic language.
+&nbsp; <br>  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131699277-a530a124-2c32-4f04-8a86-946fa0133e8b.png" >  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131699283-fc76a5f4-efa8-4f3e-b827-2297de5490b9.png" >  
 
 - ### Level 4 (Arabic Alphabet Board – كتابة الحروف)
 After the child has learned the correct pronunciation of the Arabic letters, and their uses in some words, it is time to learn the correct writing of these letters.
+&nbsp; <br>  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131699790-c6610c4c-416b-47ad-85b8-8427a2e04097.png" >  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131699797-665ecd40-b879-4e50-827a-b8426b8b4244.png" >  
+<img width="700px" src="https://user-images.githubusercontent.com/76398557/131699803-df422a91-29a9-4f5a-9f28-e76ca79f24d6.png" >  
 
 ## Team members:
-- May Hanoon
-- Hatem Ratrout
+- May Hannon (MayHannon)
+- Hatem Ratrout (HatemRatrout)
 - Dalal Yassin
