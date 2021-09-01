@@ -80,4 +80,4 @@ After the child has learned the correct pronunciation of the Arabic letters, and
 ## Team members:
 - May Hannon (MayHannon)
 - Hatem Ratrout (HatemRatrout)
-- Dalal Yassin
+- Dalal Yassin (Dalalyassin)
